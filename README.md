@@ -80,21 +80,16 @@ The following graphs illustrate the model's performance and training stability:
 #### Accuracy and Loss Trends
 Shows strong convergence over 10 epochs.
 
-Accuracy Curve
-![<img width="662" height="505" alt="Accuracy" src="https://github.com/user-attachments/assets/2e131cc2-73e1-4818-876c-182fc08c5afe" />
-]
+<img width="662" height="505" alt="Accuracy" src="https://github.com/user-attachments/assets/2e131cc2-73e1-4818-876c-182fc08c5afe" />
 
-Loss Curve
-![<img width="687" height="512" alt="loss" src="https://github.com/user-attachments/assets/5dee80c8-3579-40c5-ad97-e64fc7123417" />
-]
+
+<img width="687" height="512" alt="loss" src="https://github.com/user-attachments/assets/5dee80c8-3579-40c5-ad97-e64fc7123417" />
+
 
 #### Detailed Classification Metrics
 Provides a deeper look into the model's predictive power across the 31 classes.
 
-Confusion Matrix
-![<img width="847" height="769" alt="ConfusionMatrix" src="https://github.com/user-attachments/assets/6cb3c9cd-d5dd-4447-b8ee-9e38eecb4b51" />
-]
+<img width="847" height="769" alt="ConfusionMatrix" src="https://github.com/user-attachments/assets/6cb3c9cd-d5dd-4447-b8ee-9e38eecb4b51" />
 
-Multi-Class ROC Curve
-![<img width="825" height="658" alt="RocCurve" src="https://github.com/user-attachments/assets/5b5de693-d3d1-4911-96b1-4c403bed7fef" />
-]
+
+<img width="825" height="658" alt="RocCurve" src="https://github.com/user-attachments/assets/5b5de693-d3d1-4911-96b1-4c403bed7fef" />
